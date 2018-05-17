@@ -1,0 +1,1 @@
+var stimList = ["Flecha", "Camión", "Mano", "Avión", "Auto"];
